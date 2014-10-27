@@ -1,7 +1,7 @@
 czerocase-test-modules
 ==============
 
-It is a module for testing the modules that implementation the ####core module### of the ####framework CZeroCase####.
+It is a module for testing the modules that implementation the **core module** of the framework **CZeroCase**.
 
 
 CZEROCASE Project
